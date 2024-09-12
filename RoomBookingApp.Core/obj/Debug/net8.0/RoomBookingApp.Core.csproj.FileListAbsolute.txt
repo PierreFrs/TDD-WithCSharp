@@ -1,0 +1,11 @@
+/home/pfraisse/Documents/pierre/Tutorials/Dotnet/RoomBookingApp/RoomBookingApp.Core/bin/Debug/net8.0/RoomBookingApp.Core.deps.json
+/home/pfraisse/Documents/pierre/Tutorials/Dotnet/RoomBookingApp/RoomBookingApp.Core/bin/Debug/net8.0/RoomBookingApp.Core.dll
+/home/pfraisse/Documents/pierre/Tutorials/Dotnet/RoomBookingApp/RoomBookingApp.Core/bin/Debug/net8.0/RoomBookingApp.Core.pdb
+/home/pfraisse/Documents/pierre/Tutorials/Dotnet/RoomBookingApp/RoomBookingApp.Core/obj/Debug/net8.0/RoomBookingApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/pfraisse/Documents/pierre/Tutorials/Dotnet/RoomBookingApp/RoomBookingApp.Core/obj/Debug/net8.0/RoomBookingApp.Core.AssemblyInfoInputs.cache
+/home/pfraisse/Documents/pierre/Tutorials/Dotnet/RoomBookingApp/RoomBookingApp.Core/obj/Debug/net8.0/RoomBookingApp.Core.AssemblyInfo.cs
+/home/pfraisse/Documents/pierre/Tutorials/Dotnet/RoomBookingApp/RoomBookingApp.Core/obj/Debug/net8.0/RoomBookingApp.Core.csproj.CoreCompileInputs.cache
+/home/pfraisse/Documents/pierre/Tutorials/Dotnet/RoomBookingApp/RoomBookingApp.Core/obj/Debug/net8.0/RoomBookingApp.Core.dll
+/home/pfraisse/Documents/pierre/Tutorials/Dotnet/RoomBookingApp/RoomBookingApp.Core/obj/Debug/net8.0/refint/RoomBookingApp.Core.dll
+/home/pfraisse/Documents/pierre/Tutorials/Dotnet/RoomBookingApp/RoomBookingApp.Core/obj/Debug/net8.0/RoomBookingApp.Core.pdb
+/home/pfraisse/Documents/pierre/Tutorials/Dotnet/RoomBookingApp/RoomBookingApp.Core/obj/Debug/net8.0/ref/RoomBookingApp.Core.dll

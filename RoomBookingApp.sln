@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomBookingApp.Core.Tests", "RoomBookingApp.Core.Tests\RoomBookingApp.Core.Tests.csproj", "{868450B1-BD11-4E60-8F05-6DE2CB5B6211}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomBookingApp.Core", "RoomBookingApp.Core\RoomBookingApp.Core.csproj", "{B82C9CC3-2323-4926-B972-A5187B2925E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{868450B1-BD11-4E60-8F05-6DE2CB5B6211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{868450B1-BD11-4E60-8F05-6DE2CB5B6211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{868450B1-BD11-4E60-8F05-6DE2CB5B6211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{868450B1-BD11-4E60-8F05-6DE2CB5B6211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B82C9CC3-2323-4926-B972-A5187B2925E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82C9CC3-2323-4926-B972-A5187B2925E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82C9CC3-2323-4926-B972-A5187B2925E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82C9CC3-2323-4926-B972-A5187B2925E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
